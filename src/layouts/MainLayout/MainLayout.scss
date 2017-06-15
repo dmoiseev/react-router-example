@@ -1,0 +1,12 @@
+.main-layout {
+  position: relative;
+
+  &__sidebar {
+    width: 220px;
+  }
+
+  &__content {
+    margin-left: 220px;
+    min-height: 600px;
+  }
+}
